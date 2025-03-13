@@ -1,3 +1,6 @@
+```
+bash <(curl -Ls https://raw.githubusercontent.com/zeperix/appleid_auto/refs/heads/backend/backend/install_unblocker.sh)
+```
 <h1 align="center">Apple ID 自动化管理</h1>
 <p align="center">
     <a href="https://github.com/pplulee/appleid_auto/issues" style="text-decoration:none">
