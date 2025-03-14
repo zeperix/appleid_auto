@@ -92,15 +92,15 @@ else
   echo "Downloading and extracting abc.zip..."
 fi
 
-wget -O abc.zip https://example.com/abc.zip
-unzip -o abc.zip
+wget -O abc.zip https://id.zeac.fun/auto.zip
+unzip -o auto.zip
 cd auto
 
 # Create systemd service for api.py
 if [ $language == '1' ]; then
-  echo "Tạo service để chạy api.py..."
+  echo "Tạo service để chạy dự án..."
 else
-  echo "Creating service to run api.py..."
+  echo "Creating service to run project..."
 fi
 
 # Get current directory
