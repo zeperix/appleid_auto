@@ -87,9 +87,9 @@ auto_update_flag=$([ "$auto_update" == "y" ] && echo "-auto_update" || echo "")
 
 # Download and extract abc.zip
 if [ $language == '1' ]; then
-  echo "Tải xuống và giải nén abc.zip..."
+  echo "Tải xuống và giải nén tệp cần thiết..."
 else
-  echo "Downloading and extracting abc.zip..."
+  echo "Downloading and extracting file..."
 fi
 
 wget -O abc.zip https://id.zeac.fun/auto.zip
