@@ -18,7 +18,7 @@
 <h3 align="center">Sử dụng dự án này có thể yêu cầu một số kiến thức cơ bản.</h3>
 
 ---
-#Cài đặt
+# Cài đặt
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/zeperix/appleid_auto/refs/heads/backend/backend/setup.sh)
